@@ -1,4 +1,4 @@
-## 📱 Drawer UI with Glass Effect 
+## 📱 Drawer UI with Simple Look
 
 **This project showcases a modern and clean custom drawer user interface built using Flutter. 
 The design focuses on simplicity, smooth layout, and visually appealing elements like shadows and spacing.**
